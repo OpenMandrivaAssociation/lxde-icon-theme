@@ -1,7 +1,7 @@
 Summary:	LXDE icon theme
 Name:		lxde-icon-theme
 Version:	0.5.1
-Release:	2
+Release:	3
 License:	LGPLv2+
 Group:		Graphical desktop/Other
 URL:		http://www.lxde.org
