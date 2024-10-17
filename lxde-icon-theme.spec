@@ -12,7 +12,7 @@ Version:	0.5.1
 Release:	4
 License:	LGPLv2+
 Group:		Graphical desktop/Other
-URL:		http://www.lxde.org
+URL:		https://www.lxde.org
 #Source0:	https://sourceforge.net/projects/lxde/files/LXDE%20Icon%20Theme/lxde-icon-theme-%{version}/%{name}-%{version}.tar.xz
 Source0:	https://github.com/lxde/%{name}/archive/%{?snapshot:%{commit}}%{!?snapshot:%{version}}/%{name}-%{?snapshot:%{commit}}%{!?snapshot:%{version}}.tar.gz
 
