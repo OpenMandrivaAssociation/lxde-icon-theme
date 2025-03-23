@@ -8,8 +8,8 @@
 
 Summary:	LXDE icon theme
 Name:		lxde-icon-theme
-Version:	0.5.1
-Release:	4
+Version:	0.5.2
+Release:	1
 License:	LGPLv2+
 Group:		Graphical desktop/Other
 URL:		https://www.lxde.org
