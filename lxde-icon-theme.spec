@@ -18,6 +18,11 @@ Source0:	https://github.com/lxde/%{name}/archive/%{?snapshot:%{commit}}%{!?snaps
 
 BuildArch:	noarch
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 This package contains nuoveXT2 icon theme for LXDE.
 
